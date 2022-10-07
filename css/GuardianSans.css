@@ -1,0 +1,36 @@
+
+@font-face {
+		font-family: 'Guardian Sans Web';
+		src: 
+			 url('../fonts/Guardian Sans Web-Bold.woff') format('woff');
+		font-weight: 700;
+		font-style: normal;
+		font-stretch: normal;
+}
+
+@font-face {
+		font-family: 'Guardian Sans Web';
+		src: 
+			 url('../fonts/Guardian Sans Web-Regular.woff') format('woff');
+		font-weight: 400;
+		font-style: normal;
+		font-stretch: normal;
+}
+
+@font-face {
+		font-family: 'Guardian Sans Web';
+		src: 
+			 url('../fonts/Guardian Sans Web-Light.woff') format('woff');
+		font-weight: 300;
+		font-style: normal;
+		font-stretch: normal;
+}
+
+@font-face {
+		font-family: 'Guardian Sans Web';
+		src: 
+			 url('../fonts/Guardian Sans Web-Thin.woff') format('woff');
+		font-weight: 200;
+		font-style: normal;
+		font-stretch: normal;
+}
